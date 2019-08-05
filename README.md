@@ -2,7 +2,9 @@
   Starter for Gatsby Theme Musician
 </h1>
 
-This starter creates a new Gatsby site that is preconfigured to work with [gatsby-theme-musician](https://github.com/ekafyi/gatsby-theme-musician/),a theme for bands and music artists 🎸🎙.
+<p>&nbsp;</p>
+
+This starter creates a new Gatsby site that is preconfigured to work with [gatsby-theme-musician](https://github.com/ekafyi/gatsby-theme-musician/), a theme for bands and music artists 🎸🎙.
 
 💡 _If you have never used Gatsby before, head to their [quick start guide](https://www.gatsbyjs.org/docs/quick-start/) or [beginner-friendly tutorials](https://www.gatsbyjs.org/tutorial/)._
 
