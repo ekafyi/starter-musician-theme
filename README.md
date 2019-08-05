@@ -4,7 +4,9 @@
 
 <p>&nbsp;</p>
 
-This starter creates a new Gatsby site that is preconfigured to work with [gatsby-theme-musician](https://github.com/ekafyi/gatsby-theme-musician/), a theme for bands and music artists 🎸🎙.
+This starter creates a new Gatsby site that is preconfigured to work with [gatsby-theme-musician](https://github.com/ekafyi/gatsby-theme-musician/), a theme for bands and music artists 🎸🎙. 
+
+A *theme* is something you add to your Gatsby site, which you can combine with other themes. Read more about themes in their [official docs](https://www.gatsbyjs.org/docs/themes/what-are-gatsby-themes/). If you already have a Gatsby site, you can [add the theme manually](https://github.com/ekafyi/gatsby-theme-musician#option-b-manually-add-to-your-existing-site); this starter site aims to get you started quickly if you want to create a new site.
 
 💡 _If you have never used Gatsby before, head to their [quick start guide](https://www.gatsbyjs.org/docs/quick-start/) or [beginner-friendly tutorials](https://www.gatsbyjs.org/tutorial/)._
 
