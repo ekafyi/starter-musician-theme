@@ -5,6 +5,12 @@
  */
 
 module.exports = {
+  // Add common site data (not required by the theme, but recommended)
+  siteMetadata: {
+    title: "Starter Site for Gatsby Theme Musician",
+    description: "",
+    siteUrl: "https://github.com/ekafyi/starter-musician-theme"
+  },
   plugins: [
     // Add gatsby-theme-musician to your site
     {
